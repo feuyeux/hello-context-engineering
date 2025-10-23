@@ -1,0 +1,24 @@
+# Core LangGraph and LangChain dependencies
+langgraph>=0.2.62
+langchain>=0.3.13
+langchain-openai>=0.2.14
+langchain-ollama>=0.2.1
+langchain-sandbox>=0.0.11
+langgraph_bigtool>=0.0.3
+langchain_community>=0.3.13
+langgraph_supervisor>=0.0.27
+langgraph_swarm>=0.0.12
+
+# Data validation and type checking
+pydantic>=2.10.4
+
+# Optional dependencies for examples
+pandas>=2.2.3
+numpy>=2.2.1
+matplotlib>=3.10.0
+httpx>=0.28.1
+rich>=14.0.0
+
+# Jupyter notebook support
+jupyter>=1.1.1
+ipykernel>=6.29.5
